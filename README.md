@@ -2,4 +2,6 @@ A Snapchat Clone app in which users should be able to take a picture, post to a 
 
 Supporeted Version: Swift 4.2+ Xcode 9+ 
 
+![Image description](preview.png)
+
 
